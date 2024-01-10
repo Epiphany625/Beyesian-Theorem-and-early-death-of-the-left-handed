@@ -33,6 +33,6 @@ Using age distribution data, this investigation attempts to discern if there is 
 - rates of left-handedness digitized from a figure in the 1992 paper by Gilbert and Wysocki: https://www.ncbi.nlm.nih.gov/pubmed/1528408
 
 ### Results and Conclusion
-The findings of this project offer a nuanced view of the relationship between left-handedness and age at death. [Summary of results and conclusions drawn from the analysis.]
+The findings of this project offer a  view of the relationship between left-handedness and age at death, that the misinterpretation of the possible relationship between the early death and left handedness is actually due to the latent variable that the rates of left-handedness in the population changes over the years. 
 
 
